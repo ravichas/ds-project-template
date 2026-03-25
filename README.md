@@ -2,7 +2,7 @@
 ### BIFX-546: Machine Learning for Bioinformatics — Spring 2026
 
 **Team Members:**
-- Kardam (jdoe@hood.edu)
+- John Doe (jdoe@hood.edu)
 
 ---
 
